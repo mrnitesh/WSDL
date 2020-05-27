@@ -1,0 +1,7 @@
+www.example.com filetype:WSDL
+site:target.com filetype:wsdl
+ext:svc inurl:wsdl
+filetype:wsdl wsdl
+Filetype: ?wsdl
+inurl:asmx?wsdl OR inurl:jws?wsdl
+inurl:_vti_bin/sites.asmx?wsdl | intitle:_vti_bin/sites.asmx?wsdl
